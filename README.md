@@ -1,4 +1,4 @@
-# ESG_Finance_App
+# ESG Finance App
 
 Created by Noah Silver [@noahsilver12](https://www.twitter.com/noahsilver12)
 
